@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Betan
 locale:           en_US
 url:              
 
@@ -25,14 +25,14 @@ kramdown:
 
 
 # Site owner
-owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
+owner: Elísabet Ólafsdóttir
+  name: Betan
+  avatar: biopic.png
+  bio: "Hamingjusöm húsfrú sem er samt stundum þreytt og pirrípú. Elska vefinn og nota hann við vinnu og leik. Á kynþokkafullan eiginmann og undraverða syni. Hef ekki borðað sykur í óteljandi daga en er samt með bumbu...hef kosið æðruleysið frekar en æfingar..."
   email: 
   disqus-shortname: 
-  twitter: #username
-  facebook: #username
+  twitter: betan
+  facebook: betan
   google:
     plus: #username
     analytics: 
@@ -42,16 +42,16 @@ owner:
   bing-verify: 
   github: #username
   stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
-  instagram: #username
+  linkedin: betan
+  instagram: beddarinn
   lastfm: #username
   tumblr: #username
-  pinterest: #username
+  pinterest: beddarinn
   foursquare: #username
   steam: #username
   dribbble: #username
-  youtube: #username
-  soundcloud: #username
+  youtube: beddarinn
+  soundcloud: betan-1
   weibo: #username
 
 include: [".htaccess"]
