@@ -1,13 +1,13 @@
 # Site navigation links
 
-- title: About
+- title: Um Betuna
   url: /about/
 
-- title: Sample Posts
-  url: /posts/
+- title: Gamla bloggið
+  url: https://betuheimur.wordpress.com
 
-- title: Theme Setup
-  url: /theme-setup/
+- title: Eldgamla bloggið
+  url: http://betarokk.blogspot.com
 
-- title: Made Mistakes
-  url: http://mademistakes.com
+- title: Smáveislur
+  url: http://facebook.com/smaveislur
