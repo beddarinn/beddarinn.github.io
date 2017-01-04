@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Ekki bara andlegt
-author: billy_rick
+author: betan
 modified: null
-excerpt: A post to test author overrides using a data file.
+excerpt: Líkamleg einkenni eru ekkert grín
 tags: []
 published: true
 ---
