@@ -47,7 +47,26 @@
         <div class="article-author-bottom">
           {% include _author-bio.html %}
         </div>
-        <p class="byline"><strong>{{ page.title }}</strong> var birt <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>{% if page.modified %} and last modified on <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time>{% endif %}.</p>
+        
+        <p class="byline"><strong>{{ page.title }}</strong> var birt <time datetime="{{ page.date | date_to_xmlschema }}">
+          {{ page.date | date: "%-d" }}
+          {% assign m = page.date | date: "%-m" %}
+          {% case m %}
+            {% when '1' %}janúar
+            {% when '2' %}febrar
+            {% when '3' %}mars
+            {% when '4' %}apríl
+            {% when '5' %}maí
+            {% when '6' %}júní
+            {% when '7' %}júlí
+            {% when '8' %}ágst
+            {% when '9' %}september
+            {% when '10' %}október
+            {% when '11' %}nóvember
+            {% when '12' %}desember
+          {% endcase %}
+          {{ page.date | date: "%Y" }}</time>
+          {% if page.modified %} and last modified on <time datetime="{{ page.modified | date: "%Y-%m-%d" }}">{{ page.modified | date: "%B %d, %Y" }}</time>{% endif %}.</p>
       </footer>
     </div><!-- /.article-wrap -->
   {% if site.owner.disqus-shortname and page.comments == true %}
