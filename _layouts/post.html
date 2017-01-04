@@ -49,7 +49,7 @@
         </div>
         
         <p class="byline"><strong>{{ page.title }}</strong> var birt <time datetime="{{ page.date | date_to_xmlschema }}">
-          {{ page.date | date: "%-d" }}
+          {{ page.date | date: "%-d." }}
           {% assign m = page.date | date: "%-m" %}
           {% case m %}
             {% when '1' %}janúar
