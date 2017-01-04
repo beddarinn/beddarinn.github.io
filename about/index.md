@@ -22,4 +22,3 @@ published: true
 ### Draumurinn er að verða eins góð við mig og börnin mín.
 
 ![Kann, get og vil]({{site.baseurl}}/about/Intro.jpg)
-
