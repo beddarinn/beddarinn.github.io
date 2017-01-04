@@ -1,25 +1,25 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, responsive]
-modified: 2014-08-08T20:53:07.573882-04:00
+title: Um mig
+tags:
+  - about
+  - Jekyll
+  - theme
+  - responsive
+modified: {}
 comments: true
 image:
   feature: sample-image-2.jpg
   credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+  creditlink: 'http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/'
+published: true
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+Ég er tæplega fertugur bókmenntafræðingur með kennsluréttindi og hef unnið í tæknigeiranum síðustu ár. Alla tíð hef ég þjáðst af miklum mæli af svikaraheilkenninu e. impostor syndrome. Um leið og ég hef náð árangri í einhverju er það svið um leið gjaldfellt í mínum huga. Mér finnst ég hvorki vera bókmenntafræðingur, kennari né tæknitáta. Þetta er orðið vandamál sem ber að leysa. 
 
-## Minimal Mistakes is all about:
+Þetta blogg mun í upphafi þjóna þeim tilgangi að taka á móti öllu því sem mér dettur í hug við sjálfsskoðun í samvinnu við Virk endurhæfingu en fyrir stuttu var ég greind með alvarlega geðlægð. Ég trúi því að þetta er tímabundið ástand og ætla mér að komast í gegnum þetta. 
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
+### Draumurinn er að verða eins góð við mig og börnin mín.
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+![Kann, get og vil]({{site.baseurl}}/about/Intro.jpg)
+
