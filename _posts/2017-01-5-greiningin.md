@@ -19,7 +19,7 @@ published: true
 
 Ég fer í viðtal og fæ eitt spjald af [Quetiapin Mylan](http://www.lyfja.is/lyfjabokin/lyf/QuetiapinMylan) sem gerir mig slefandi slaka og ófæra um að sinna heimili og börnum. Jei. Frábært. 
 <br><br>
-Í október er ég orðin tæp og fer aftur á bráðamóttökuna í þeirri von um að fá ný lyf því Esopramið er greinilega hætt að virka. Ég bíð í rúma tvo tíma á biðstofunni áður en ég fer í tékk. Þá er ákveðið að ég fari í "endurkomu" og að það yrði hringt í mig til að staðfesta tíma. Ég bíð við símann sem aldrei hringir. Loks kom að því að ég fékk tíma, heilum 5 vikum eftir komuna á bráðamóttökuna en ég fór í millitíðinni grenjandi til heimilislæknisins og skipti um lyf. Ég gat ekki beðið lengur. 
+Í október er ég orðin tæp og fer aftur á bráðamóttökuna í þeirri von um að fá ný lyf því Esopramið er greinilega hætt að virka. Ég bíð í rúma tvo tíma á biðstofunni áður en ég fer í tékk. Þá er ákveðið að ég fari í "endurkomu" og að það yrði hringt í mig til að staðfesta tíma. Ég bíð við símann sem aldrei hringir. Loks kom að því að ég fékk tíma, heilum 5 vikum eftir komuna á bráðamóttökuna en þá hafði ég farið grenjandi til heimilislæknisins í millitíðinni og skipti um lyf. Ég einfaldlega gat ekki beðið lengur. 
 <br><br>
 Á Landsspítalanum fæ ég aldrei viðtal við geðlækni. Sú sem tók á móti mér þar var sálfræðinemi og skrifaði ég undir eitthvað plagg sem leyfði henni að tala við ráðgefandi lækni. Eftir það viðtal var ákveðið að ég færi í greiningu og sagði hún það geta tekið tvo til þrjá 2 klst. fundi þar sem ég hafði lent í það mörgum áföllum um ævina. Ég var bara iiiiii.... ég er samt æðislega normal skiluru! 
 <br><br>
