@@ -23,7 +23,9 @@ published: true
 <br><br>
 Á Landsspítalanum fæ ég aldrei viðtal við geðlækni. Sú sem tók á móti mér þar var sálfræðinemi og skrifaði ég undir eitthvað plagg sem leyfði henni að tala við ráðgefandi lækni. Eftir það viðtal var ákveðið að ég færi í greiningu og sagði hún það geta tekið tvo til þrjá 2 klst. fundi þar sem ég hafði lent í það mörgum áföllum um ævina. Ég var bara iiiiii.... ég er samt æðislega normal skiluru! 
 <br><br>
+
 ### Kostnaður 
+
 Á næstu vikum hitti ég hana og tók einhver próf. Hver tími kostaði 3-4000 kr. Hún sagði mér strax að ég væri yfir greiningarmörkum alvarlegrar geðlægðar og bauð mér að koma í hópmeðferð í huglægri atferlismeðferð í byrjun janúar. 6 vikur, 2svar í viku í 3 tíma í senn og kostaði um 20 þúsund. 
 <br><br>
 Ég hlunkast heim, leggst upp í rúm og sýg puttann og bíð eftir janúar. 
