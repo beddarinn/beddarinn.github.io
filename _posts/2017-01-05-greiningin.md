@@ -28,7 +28,7 @@ published: true
 
 Á næstu vikum hitti ég hana og tók einhver próf. Hver tími kostaði 3-4000 kr. Hún sagði mér strax að ég væri yfir greiningarmörkum alvarlegrar geðlægðar og bauð mér að koma í hópmeðferð í huglægri atferlismeðferð í byrjun janúar. 6 vikur, 2svar í viku í 3 tíma í senn og kostaði um 20 þúsund. 
 <br><br>
-Ég hlunkast heim, leggst upp í rúm og sýg puttann og bíð eftir janúar. 
+Ég hlunkast heim, leggst upp í rúm og sýg puttann og bíð eftir janúar... bara 87 dagar. 
 <br><br>
 Mér finnst magnað að eftir nokkrar komur á geðdeild datt engum í hug að segja mér frá
 
