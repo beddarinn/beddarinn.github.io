@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Greiningarferlið
-excerpt: Löng og ströng bið eftir svörum
+excerpt: Löng og ströng bið eftir svörum.
 tags: null
 comments: true
 image:
