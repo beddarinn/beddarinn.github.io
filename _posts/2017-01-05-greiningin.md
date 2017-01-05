@@ -11,7 +11,7 @@ published: true
 
 Þar sem ég hafði verið á geðlyfjum síðan beibí Kjárr fæddist (2 ár) þóttist ég vita að ég væri nú nett þung í mér. Meðgönguþunglyndi og fæðingarþunglyndi er sérstaklega vinsælt nefnilega og hvað þá þegar maður er rúmliggjandi hálfa meðgönguna. Þúst... alveg normal. En kannski ekki svo normal að vera ennþá að poppa pillur rúmum tveimur árum síðar. 
 
-## Lyfin virka ekki sem skyldi
+### Lyfin virka ekki sem skyldi
 
 Í júlí finn ég mun meira fyrir þunglyndi en áður og þegar ég gríp sjálfa mig í alvörugefnum sjálfsmorðshugleiðingum þá húrra ég mér strax niður á bráðamóttöku geðdeildar. 
 
@@ -23,6 +23,7 @@ published: true
 <br><br>
 Á Landsspítalanum fæ ég aldrei viðtal við geðlækni. Sú sem tók á móti mér þar var sálfræðinemi og skrifaði ég undir eitthvað plagg sem leyfði henni að tala við ráðgefandi lækni. Eftir það viðtal var ákveðið að ég færi í greiningu og sagði hún það geta tekið tvo til þrjá 2 klst. fundi þar sem ég hafði lent í það mörgum áföllum um ævina. Ég var bara iiiiii.... ég er samt æðislega normal skiluru! 
 <br><br>
+### Kostnaður 
 Á næstu vikum hitti ég hana og tók einhver próf. Hver tími kostaði 3-4000 kr. Hún sagði mér strax að ég væri yfir greiningarmörkum alvarlegrar geðlægðar og bauð mér að koma í hópmeðferð í huglægri atferlismeðferð í byrjun janúar. 6 vikur, 2svar í viku í 3 tíma í senn og kostaði um 20 þúsund. 
 <br><br>
 Ég hlunkast heim, leggst upp í rúm og sýg puttann og bíð eftir janúar. 
