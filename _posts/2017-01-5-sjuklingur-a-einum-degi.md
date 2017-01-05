@@ -21,6 +21,7 @@ published: true
 Þar fann ég fólk sem hafði einfaldlega verið rekið fyrir að hafa ekki sagt frá þunglyndinu í atvinnuviðtalinu en ég var ekkert á því að það myndi gerast á Íslandi þar sem 15-20% þjóðarinnar finni fyrir alvöru þunglyndi um ævina. Ég hringdi í geðlækninn til að fá ráð um hvernig ég ætti að haga mér í atvinnuviðtölum. Ég er nefnilega með svo góða ferilskrá að ég fæ oft viðtöl og kemst langt í ferlinu en svo rétt missi ég af djobbinu eða það er hætt við að ráða. Always the bridesmaid never the bride. Og auðvitað tek ég úr því að ég er ótalandi kjánaprik sem kann að orða hlutina rétt á blaði. Allavega...
 <br><br> 
 Geðlæknirinn fór yfir mín mál og sagði einfaldlega: 
+
 > Þú átt ekkert að vera að vinna!
 
 Og þarmeð var ég orðin sjúklingur. Í framhaldi fékk ég veikindavottorð og byrjaði nýtt ferli sem sjúklingur.
