@@ -15,6 +15,7 @@ published: true
 <br><br> 
 Ég sótti ekki um margar vinnur en þarna var ég farin að efast mjög um að ég yrði góður starfskraftur. Ég var reglulega boðuð í viðtöl og fór einmitt í viðtal stuttu eftir að ég var greind með alvarlega geðlægð. Ég, heiðarlegi hálfvitinn sem ég er, sagði frá því og sagðist vilja fá 80% starf til að geta sinnt batanum á föstudögum. Ein æðislega bjartsýn týpa. Það þarf vart að taka það fram að ég fékk ekki vinnuna en fékk æðislega sætt símtal og pepp frá mannauðsstjóranum. Það var æði. En nú varð ég ringluð og leitaði til [Reddit](https://www.reddit.com/r/depression/ target=blank "Reddit"). 
 <br><br> 
+
 ### Atvinnuviðtöl í miðri lægð
 
 Þar fann ég fólk sem hafði einfaldlega verið rekið fyrir að hafa ekki sagt frá þunglyndinu í atvinnuviðtalinu en ég var ekkert á því að það myndi gerast á Íslandi þar sem 15-20% þjóðarinnar finni fyrir alvöru þunglyndi um ævina. Ég hringdi í geðlækninn til að fá ráð um hvernig ég ætti að haga mér í atvinnuviðtölum. Ég er nefnilega með svo góða ferilskrá að ég fæ oft viðtöl og kemst langt í ferlinu en svo rétt missi ég af djobbinu eða það er hætt við að ráða. Always the bridesmaid never the bride. Og auðvitað tek ég úr því að ég er ótalandi kjánaprik sem kann að orða hlutina rétt á blaði. Allavega...
