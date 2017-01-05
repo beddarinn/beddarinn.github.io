@@ -11,7 +11,7 @@ published: true
 
 Þegar ég missti vinnuna þá ákvað ég að slaka vel á yfir sumarið og ekki fara beint að vinna annarsstaðar. Ég fann að ég þurfti á hvíld að halda. Ég hvíldi mig samt ekkert sérstaklega mikið og tók að mér allskonar sjálfboðavinnu áður en börnin fóru í sumarfrí. Ég er ekki frá því að Hulli hafi teiknað þessa mynd af mér þegar leið á fríið. 
 <br>
-![Betan í búðinni]({{site.baseurl}}/_posts/hulli.jpg)
+![Betan í búðinni]({{site.baseurl}}/_posts/2017-01-5-sjuklingur-a-einum-degi.md/hulli.jpg)
 
 
 
