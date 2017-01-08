@@ -13,7 +13,7 @@ published: true
  
 ## Hömlulaus ofæta og matarfíkill
 
-Það að vera í fráhaldi er semsagt að vera í tólf spora samtökunum GSA. Ég hef vigtað þrjár sykur- og sterkjulausar máltíðir á dag, tilkynnt þær til sponsors og ekki fengið mér neitt á milli mála nema kaffi, te, pepsí max og sykurlaust tyggjó. 
+Það að vera í fráhaldi er semsagt að vera í tólf spora samtökum fyrir matarfíkla. Ég hef vigtað þrjár sykur- og sterkjulausar máltíðir á dag, tilkynnt þær til sponsors og ekki fengið mér neitt á milli mála nema kaffi, te, pepsí max og sykurlaust tyggjó. 
  <br><br>
 Síðasta árið hef ég misst máttinn örlítil skref fyrir skref í fráhaldinu. Fyrst hætti ég að tilkynna breytingar. Svo gleymdi ég alltaf að tilkynna á kvöldin og fór að tilkynna á morgnanna og smám saman var ég farin að stjórna þessu alveg sjálf og var orðin skíthrædd við sponsorinn minn því ef hún myndi fella mig þá myndi ég náttúrlega fara beinustu leið í Hagkaup og kaupa:
 
@@ -40,7 +40,7 @@ En eftir langt og strangt spjall við sponsorinn minn ákvað ég bara að stíg
 
 Og viti menn. Ég fékk mér lakkrís og hann var ekkert spes. Ég fékk mér súkkulaði og það var ekkert eins æðislegt og mig minnti. Ég vigtaði matinn minn það sem eftir var dags í gær. Og gerði slíkt hið sama í dag. 
  <br><br>
-Ég held í alvörunni að ég verði fyrsta manneskjan í sögu GSA sem stíg út úr samtökunum og ráði við matinn minn. Já. Ég verð sú fyrsta sem þyngist ekki um 30 kíló. Ég verð sú fyrsta sem verð ekki bitur út í samtökin því mér mistókst fráhald. Ég verð sú fyrsta sem höndla þetta bara. Já. Ég. Tada! Ég fæ enga þráhyggju. Ég held áfram að borða bökketlód af grænmeti og bara kringum 120 g af próteini. Ég held áfram að borða eins og ég er vön. 
+Ég held í alvörunni að ég verði fyrsta manneskjan í sögunni sem stíg út úr samtökunum og ráði við matinn minn. Já. Ég verð sú fyrsta sem þyngist ekki um 30 kíló. Ég verð sú fyrsta sem verð ekki bitur út í samtökin því mér mistókst fráhald. Ég verð sú fyrsta sem höndla þetta bara. Já. Ég. Tada! Ég fæ enga þráhyggju. Ég held áfram að borða bökketlód af grænmeti og bara kringum 120 g af próteini. Ég held áfram að borða eins og ég er vön. 
  <br><br>
 Ég hef nefnilega þroskast svolítið síðasta áratug sko. Áður en ég byrjaði í fráhaldi þá varð ég æðislega stressuð ef ég varð svöng. Svona eins og það myndi bara líða yfir mig af vannæringu ef ég fengi ekki eitthvað strax. Jebb... 100 kílóa daman sem leið út af í Kringlunni af vannæringu því hún varð svöng... sá þetta kristallast fyrir mér. En núna þá fæ ég mér bara að drekka nema það sé kominn matartími. Ég er örugg um að næsta máltíð er á leiðinni og ég veit að ég mun fá nóg að borða. 
 <br><br>
