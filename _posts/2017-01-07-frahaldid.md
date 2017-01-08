@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fráhaldið
-excerpt: Umbreytingar á öllum sviðum
+excerpt: Hætt í fráhaldi eftir átta ár 
 tags: 'sykur, sterkja, matur,'
 comments: true
 image:
