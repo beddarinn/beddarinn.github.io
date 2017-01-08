@@ -9,7 +9,7 @@ image:
 published: true
 ---
 
-Ég er búin að vera 2756 daga í fráhaldi eða síðan 10. júní 2009. 2013 tók ég mér 10 daga frí og datt svo hrikalega í það að ég þyngdist um 6,7 kg á þessum tíu dögum. Ég vissi ekki einu sinni að það væri hægt. Eins og ég vissi ekki að það hefði verið hægt að vera ég og vera mjó. En í fráhaldi tókst það. Ég fór á djammið í [gullbuxum](_images/gullbuxur.jpg)
+Ég er búin að vera 2756 daga í fráhaldi eða síðan 10. júní 2009. 2013 tók ég mér 10 daga frí og datt svo hrikalega í það að ég þyngdist um 6,7 kg á þessum tíu dögum. Ég vissi ekki einu sinni að það væri hægt. Eins og ég vissi ekki að það hefði verið hægt að vera ég og vera mjó. En í fráhaldi tókst það. Ég fór á djammið í [gullbuxum](_gullbuxur.jpg)
  og var klipin í rassinn og fílaði það í drasl. 
  
 ## Hömlulaus ofæta og matarfíkill
