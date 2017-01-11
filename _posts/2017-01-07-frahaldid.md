@@ -48,7 +48,7 @@ Og viti menn. Ég fékk mér lakkrís og hann var ekkert spes. Ég fékk mér s�
 
 ## Ramminn
 
-Ókei. Ef ég fer út fyrir þennan ramma þá verð ég að játa fyrir mér að ég er ekki að höndla þetta og ég þarf hjálpina sem býðst innan GSA samtakanna. Ég nenni nefnlega ekki þessu helvítis samviskubiti sem ég var með í 20 ár. Ef ég fer að upplifa það aftur þá fokkit og ég fer aftur í fráhald. 
+Ókei. Ef ég fer út fyrir þennan ramma þá verð ég að játa fyrir mér að ég er ekki að höndla þetta og ég þarf hjálpina sem býðst innan samtakanna. Ég nenni nefnlega ekki þessu helvítis samviskubiti sem ég var með í 20 ár. Ef ég fer að upplifa það aftur þá fokkit og ég fer aftur í fráhald. 
 
 -  Fer upp í 80 kg
 - Upplifi þráhyggju í sykur eða sterkju
