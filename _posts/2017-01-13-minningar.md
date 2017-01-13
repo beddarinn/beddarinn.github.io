@@ -6,7 +6,7 @@ tags: þunglyndi
 comments: true
 image:
   feature: sample-image-5.jpg
-published: true
+published: false
 ---
 
 Í gegnum tíðina hef ég siglt höfin sjö og tjúllast á þeim öllum. Ég hef tekið blússandi frekjuköst, skrifað í Velvakanda þegar mér mislíkar eitthvað og bloggaði alveg brjáluð þegar mér fannst brotið á mér og mínum. Það eina sem mér var sama um var hvað fólki fannst um mig ef það þurfti ekki að segja mér það sjálft.  
