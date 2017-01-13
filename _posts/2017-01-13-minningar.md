@@ -1,4 +1,5 @@
- ---
+ 
+---
 layout: post
 title: Fyrsta áfallið
 excerpt: Grafið ofan í minningarkassann (þ.e. gúglað bloggið mitt)
