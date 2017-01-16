@@ -13,7 +13,7 @@ published: false
 
 ## Niðurstöðurnar
 
-Faith (94%): 
+### Faith (94%): 
 * Make efforts to discover your true passion and tie it to your work, no matter what you do.
 * Align, but don't compromise, your values to that of your organization.
 * You respect others for learning about your family and community - give them the opportunity.
@@ -57,7 +57,7 @@ Faith (94%):
 * Your time may be better spent helping others understand you than trying to change you.
 <br><br>
 
-Your Remaining Results Are:
+Your Remaining Results Are:<br>
 Resourcefulness (81%): 
 Curiosity (81%): 
 Integrity (81%): 
@@ -77,6 +77,7 @@ Self Motivation (50%):
 ## Your Bottom 1 Weakness Is:
 
 ### Balance (50%):
+
 * You bring structure to chaotic situations - you don't rest until order restored. Seek teams that need your help.
 * Clutter will greatly annoy you - make every effort to enhance your organizational and planning systems.
 * Always seek advance notice of deadlines, meetings, and project milestones.
