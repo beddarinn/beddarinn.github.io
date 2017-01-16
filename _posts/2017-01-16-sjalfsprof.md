@@ -31,6 +31,7 @@ published: false
 * Cynics quickly sap your energy and you dislike cheering negative people - minimize these instances.
 * You enjoy celebrating and should actively find ways to recognize achievements.
 <br><br>
+
 Uuuu... ókei! Skal gert. Fíla allt sem stendur þarna og oftast eru þessir kostir taldir upp þegar verið er að auglýsa eftir verkefnastjórum eða mannauðsmanneskjum. Í byrjun sumars 2016 fannst mér svo sjálfsagt að ég myndi fljúga inn í næsta starf miðað við reynslu og umsagnir fyrrum samstarfsfólks. Bjartsýnin var mikil. Ég sótti um fá störf því ég var að leita að því eina rétta. Þegar ég fékk það ekki fór ég að efast... það er nefnilega ógeðslega erfitt að finnast maður ekki glataður þegar maður fær engin svör við atvinnuleit. 
 <br><br>
 > ### Determination (94%): 
