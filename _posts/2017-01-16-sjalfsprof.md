@@ -20,7 +20,8 @@ published: false
 * You give more value to greater levels of service than more money - let others know this.
 * People may not share your beliefs, but you feel they need to understand & respect - let them.
 <br><br>
-Ég veit nú ekki alveg hvort ég trúi að trú sé helsti styrkleiki minn. Ég trúi lítið á sjálfa mig. Ég trúi ekki á biblíuna. Ég held að þetta sé í fyrsta sæti hjá öllum sem taka þetta próf því myndböndin sem maður átti að hvíla hugann við í miðju prófinu voru um Jesú. 
+
+Ég veit nú ekki alveg hvort ég trúi að trú sé helsti styrkleiki minn. Ég trúi lítið á sjálfa mig og ég trúi ekki á biblíuna. Ég held að þetta sé í fyrsta sæti hjá öllum sem taka þetta próf því myndböndin sem maður átti að hvíla hugann við í miðju prófinu voru um Jesú. 
 
 > ### Optimism (94%): 
 * Look for positions where you can be as close to customers as possible.
@@ -29,7 +30,9 @@ published: false
 * Being positive does not mean you'll be in good mood - be aware and let others know, as needed.
 * Cynics quickly sap your energy and you dislike cheering negative people - minimize these instances.
 * You enjoy celebrating and should actively find ways to recognize achievements.
-
+<br><br>
+Uuuu... ókei! Skal gert. Fíla allt sem stendur þarna og oftast eru þessir kostir taldir upp þegar verið er að auglýsa eftir verkefnastjórum eða mannauðsmanneskjum. Í byrjun sumars 2016 fannst mér svo sjálfsagt að ég myndi fljúga inn í næsta starf miðað við reynslu og umsagnir fyrrum samstarfsfólks. Bjartsýnin var mikil. Ég sótti um fá störf því ég var að leita að því eina rétta. Þegar ég fékk það ekki fór ég að efast... það er nefnilega ógeðslega erfitt að finnast maður ekki glataður þegar maður fær engin svör við atvinnuleit. 
+<br><br>
 > ### Determination (94%): 
 * Constantly be on the lookout for new goals and improvements.
 * You're good at initiating and organizing a project, start your own and help others.
