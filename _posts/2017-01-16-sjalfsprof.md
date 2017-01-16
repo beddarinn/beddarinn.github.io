@@ -20,10 +20,9 @@ published: false
 * You give more value to greater levels of service than more money - let others know this.
 * People may not share your beliefs, but you feel they need to understand & respect - let them.
 <br><br>
-Það góða sem ég hef gert finnst mér oft koma til af slysni. Ég fékk fyrsta blaðamannadjobbið því ég sendi inn kvörtun yfir viðtali sem ég var í. 
+Ég veit nú ekki alveg hvort ég trúi að trú sé helsti styrkleiki minn. Ég trúi lítið á sjálfa mig. Ég trúi ekki á biblíuna. Ég held að þetta sé í fyrsta sæti hjá öllum sem taka þetta próf því myndböndin sem maður átti að hvíla hugann við í miðju prófinu voru um Jesú. 
 
 > ### Optimism (94%): 
-
 * Look for positions where you can be as close to customers as possible.
 * Actively help plan events - like new product launches and user groups.
 * Do use your humor and good attitude to excite people.
@@ -32,7 +31,6 @@ published: false
 * You enjoy celebrating and should actively find ways to recognize achievements.
 
 > ### Determination (94%): 
-
 * Constantly be on the lookout for new goals and improvements.
 * You're good at initiating and organizing a project, start your own and help others.
 * Get feedback from people as others' expectations will energize you.
@@ -41,7 +39,6 @@ published: false
 * Be careful of those who really want to project and analyze - they are a non-fit for your work style!
 
 > ### Adaptability (88%): 
-
 * Your success depends on ability to accommodate the unforeseen.
 * You find planning work very boring - find ways to minimize this chore while still achieving.
 * Get on teams that need to make progress - you won't sit around and sulk.
@@ -50,7 +47,6 @@ published: false
 * Goal-setting meetings and career-counseling are boring to you - minimize it.
 
 > ### Leadership (88%): 
-
 * You are good at getting projects moving again or persuading people to get stuff going - do it!
 * Take opportunities to give evaluations of what is happening in company - your straight answers can help.
 * You do not like to be supervised closely - make sure others are aware of this.
@@ -79,7 +75,6 @@ Self Motivation (50%):
 ## Your Bottom 1 Weakness Is:
 
 > ### Balance (50%):
-
 * You bring structure to chaotic situations - you don't rest until order restored. Seek teams that need your help.
 * Clutter will greatly annoy you - make every effort to enhance your organizational and planning systems.
 * Always seek advance notice of deadlines, meetings, and project milestones.
