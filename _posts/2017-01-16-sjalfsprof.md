@@ -20,7 +20,7 @@ Faith (94%):
 * You give more value to greater levels of service than more money - let others know this.
 * People may not share your beliefs, but you feel they need to understand & respect - let them.
 
-# Optimism (94%): 
+### Optimism (94%): 
 
 * Look for positions where you can be as close to customers as possible.
 * Actively help plan events - like new product launches and user groups.
@@ -29,7 +29,7 @@ Faith (94%):
 * Cynics quickly sap your energy and you dislike cheering negative people - minimize these instances.
 * You enjoy celebrating and should actively find ways to recognize achievements.
 
-# Determination (94%): 
+### Determination (94%): 
 
 * Constantly be on the lookout for new goals and improvements.
 * You're good at initiating and organizing a project, start your own and help others.
@@ -38,7 +38,7 @@ Faith (94%):
 * When down, think of new improvements to do tomorrow - stay on track.
 * Be careful of those who really want to project and analyze - they are a non-fit for your work style!
 
-# Adaptability (88%): 
+### Adaptability (88%): 
 
 * Your success depends on ability to accommodate the unforeseen.
 * You find planning work very boring - find ways to minimize this chore while still achieving.
@@ -47,7 +47,7 @@ Faith (94%):
 * Foster others' desire to learn and experiment by giving them room and tools.
 * Goal-setting meetings and career-counseling are boring to you - minimize it.
 
-# Leadership (88%): 
+### Leadership (88%): 
 
 * You are good at getting projects moving again or persuading people to get stuff going - do it!
 * Take opportunities to give evaluations of what is happening in company - your straight answers can help.
@@ -76,7 +76,7 @@ Self Motivation (50%):
 <br><br>
 ## Your Bottom 1 Weakness Is:
 
-# Balance (50%):
+### Balance (50%):
 * You bring structure to chaotic situations - you don't rest until order restored. Seek teams that need your help.
 * Clutter will greatly annoy you - make every effort to enhance your organizational and planning systems.
 * Always seek advance notice of deadlines, meetings, and project milestones.
