@@ -13,16 +13,6 @@ published: false
 
 ## Niðurstöðurnar
 
-> ### Faith (94%): 
-* Make efforts to discover your true passion and tie it to your work, no matter what you do.
-* Align, but don't compromise, your values to that of your organization.
-* You respect others for learning about your family and community - give them the opportunity.
-* You give more value to greater levels of service than more money - let others know this.
-* People may not share your beliefs, but you feel they need to understand & respect - let them.
-<br><br>
-
-Ég veit nú ekki alveg hvort ég trúi að trú sé helsti styrkleiki minn. Ég trúi lítið á sjálfa mig og ég trúi ekki á biblíuna. Ég held að þetta sé í fyrsta sæti hjá öllum sem taka þetta próf því myndböndin sem maður átti að hvíla hugann við í miðju prófinu voru um Jesú. 
-
 > ### Optimism (94%): 
 * Look for positions where you can be as close to customers as possible.
 * Actively help plan events - like new product launches and user groups.
@@ -41,7 +31,9 @@ Uuuu... ókei! Skal gert. Fíla allt sem stendur þarna og oftast eru þessir ko
 * Actively participate in helping a bogged down team into action.
 * When down, think of new improvements to do tomorrow - stay on track.
 * Be careful of those who really want to project and analyze - they are a non-fit for your work style!
+<br><br>
 
+<br><br>
 > ### Adaptability (88%): 
 * Your success depends on ability to accommodate the unforeseen.
 * You find planning work very boring - find ways to minimize this chore while still achieving.
