@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fitukomplexar taka yfir
-excerpt: Var búin að gleyma hvað það tekur ógeðslega mikinn tíma að hata sig út af súkkulaðiáti
+excerpt: Var búin að gleyma hvað það tekur ógeðslega mikinn tíma að hata sig út af súkkulaðiáti.
 tags: þunglyndi 
 image:
   feature: med-fullan-munn.png
