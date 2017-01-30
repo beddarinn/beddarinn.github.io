@@ -7,7 +7,7 @@ image:
   feature: med-fullan-munn.png
 published: true
 ---
-Ég er í algjöru fokki. Ég er búin að þyngjast um allavega 6 kg. Er orðin hrædd við vigtina (sérstaklega því hún er wifi tengd og heldur núna að ég sé maðurinn minn (því við erum greinilega orðin jafn þung) og sendir honum því status uppdeit alltaf þegar ég vigta mig. Hann hringdi í mig í panikki því ég er orðin 80 kg. Og ég lofaði mér að fara aftur í fráhald ef ég yrði alveg heil 80 kg. En ég er ekki komin aftur í fráhald. 
+Ég er í algjöru fokki. Ég er búin að þyngjast um allavega 6 kg. Er orðin hrædd við vigtina (sérstaklega því hún er wifi tengd og heldur núna að ég sé maðurinn minn (því við erum greinilega orðin jafn þung) og sendir honum því status uppdeit alltaf þegar ég vigta mig. Hann hringdi í mig í panikki því ég er orðin 80 kg. Og ég lofaði mér að fara aftur í fráhald ef ég yrði alveg heil 80 kg. En ég er ekki komin aftur í fráhald. Mig langar það ekki. Ætla að prófa meistaramánuðinn fyrst. 
 <br><br>
 ### Gamlir hugsanadraugar fitubollunnar
 Ég fékk matröð um daginn um að fitan væri komin í andlitið og nú væri ekki lengur hægt að feikaða og klæða hana af. Nú sæju allir hvers kyns lúser ég er að höndla ekki matinn minn. Svo vaknaði ég og sem betur fer er fulla tunglið ekki enn mætt. Það eru alveg 20 kg í það held ég. En sæll hvað það tekur ótrúlega mikið á andlega að borða sælgæti. Ég er í mikilli vörn og hvæsi á foreldra mína ef þeir dirfast að líta á mig ef ég fæ mér vöfflu númer tvö með sultu og rjóma. Á þremur vikum er ég búin að koma mér upp nákvæmlega sömu töktum og þegar ég var 104 kg árið 2009. Hörundssár, bitur, löt og tala svo ljótt til mín að það hálfa væri nóg. 
